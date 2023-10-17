@@ -7,5 +7,14 @@
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/libprotobuf-mutator.git@8942a9ba43d8bb196230c321d46d6a137957a719",
         "Description": "第三方软件libprotobuf-mutator"
+    },
+    {
+        "Name": "libprotobuf_mutator",
+        "License": "ImageMagick",
+        "License File": "LICENSE",
+        "Version Number": "8942a9ba43d8bb196230c321d46d6a137957a719",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/libprotobuf-mutator.git@8942a9ba43d8bb196230c321d46d6a137957a719",
+        "Description": "第三方软件libprotobuf-mutator"
     }
 ]
