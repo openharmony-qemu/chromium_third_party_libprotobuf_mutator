@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "libprotobuf_mutator",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "a304ec48dcf15d942607032151f7e9ee504b5dcf",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/libprotobuf-mutator.git@a304ec48dcf15d942607032151f7e9ee504b5dcf",
+        "Description": "第三方软件libprotobuf-mutator，一个用于生成随机protobuf protobuf解析库，适用于高性能和低内存环境"
+    }
+]
